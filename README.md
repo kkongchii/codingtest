@@ -6,10 +6,6 @@ This project's purpose is to create a make Repository with a collection of defau
 
 ## Overview
 <!-- Write Overview about this project -->
-**If you use this template, you can use this function**
-- Issue Template
-- Pull Request Template
-- Commit Template
-- Readme Template
-- Contribute Template
-- Pull Request Build Test(With Github Actions)
+**사이트**
+- 백준(https://www.acmicpc.net/)
+- 프로그래머스(https://school.programmers.co.kr/learn/challenges)
