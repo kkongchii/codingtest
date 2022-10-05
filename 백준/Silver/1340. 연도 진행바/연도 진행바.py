@@ -14,3 +14,5 @@ def solution():
     
 
 solution()
+
+# 라이브러리 객체를 잘 활용하자, python은 참 똑똑하다
