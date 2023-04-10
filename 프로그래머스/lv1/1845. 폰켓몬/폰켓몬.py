@@ -4,4 +4,5 @@ def solution(nums):
         answer = len(nums)/2
     else:
         answer = len(set_poketmon)
+    
     return answer
