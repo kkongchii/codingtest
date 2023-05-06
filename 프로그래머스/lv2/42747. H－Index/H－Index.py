@@ -4,7 +4,6 @@ def solution(citations):
     answer = len(citations)
     
     for h, paper in enumerate(citations):
-        print(h+1, paper)
         if (h+1)>paper:
             answer = h
             break
